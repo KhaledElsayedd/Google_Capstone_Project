@@ -1,5 +1,5 @@
 # Introduction
-### 🚲 Cyclistic Bike Share User Behavior Analysis 
+### 🚲 Cyclistic Bike Share User Behavior Analysis 🚲
 This project focuses on analyzing usage patterns between casual riders and annual members of Cyclistic bike share, aiming to help the marketing team design strategies for converting casual riders into annual members. By identifying behavioral differences in ride duration, frequency, and timing, we provide actionable insights to encourage membership.
 # Background
 ### The questions this project aims to answer:
