@@ -70,13 +70,14 @@ This analysis reveals significant behavioral differences between Cyclistic’s c
    Both casual riders and annual members prefer classic bikes, with electric bikes as a close second. Understanding these preferences can help in optimizing bike availability for each user type.
 
     ![alt text](Assests/rideable_type_ride_count.png)
+   
     *Heatmap visualizing the Bike Type Preferences*
-6. **Hourly Usage Trends**  
+7. **Hourly Usage Trends**  
    Peak usage times align with standard commuting hours, particularly around 8 AM and 5 PM. Casual riders also show distinct peaks on weekends, aligning with their tendency for leisure rides.
 
     ![alt text](Assests/hours_dist.png)
     *Lineplot visualizing the Hourly Usage Trends*
-7. **Seasonal Impact**  
+8. **Seasonal Impact**  
    Bike usage increases significantly during the warmer months (June–September) and drops during winter (December–February). This seasonal trend highlights an opportunity to develop seasonal marketing strategies, especially targeting casual riders during warmer seasons.
 
     ![alt text](Assests/seasons.png)
